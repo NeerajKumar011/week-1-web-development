@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "date": "2024-01-10",
+    "author": "Neeraj Kumar",
+    "excerpt": "React is a JavaScript library for building user interfaces. In this post we cover the basics — components, JSX, and how to think in React."
+  },
+  {
+    "id": 2,
+    "title": "Understanding CSS Flexbox",
+    "category": "CSS",
+    "date": "2024-01-12",
+    "author": "Neeraj Kumar",
+    "excerpt": "Flexbox makes it easy to align and distribute space among items in a container. Here's everything you need to know to get started."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Form Validation",
+    "category": "JavaScript",
+    "date": "2024-01-15",
+    "author": "Neeraj Kumar",
+    "excerpt": "Client-side validation improves UX by giving users instant feedback. We'll build a signup form with real-time validation from scratch."
+  },
+  {
+    "id": 4,
+    "title": "CSS Grid Layout Guide",
+    "category": "CSS",
+    "date": "2024-01-18",
+    "author": "Neeraj Kumar",
+    "excerpt": "CSS Grid is a two-dimensional layout system. It lets you define rows and columns and place elements exactly where you want them."
+  },
+  {
+    "id": 5,
+    "title": "React Hooks Explained",
+    "category": "React",
+    "date": "2024-01-20",
+    "author": "Neeraj Kumar",
+    "excerpt": "Hooks let you use state and other React features without writing a class. useState and useEffect are the two you'll use most often."
+  },
+  {
+    "id": 6,
+    "title": "How to Build a Responsive Navbar",
+    "category": "HTML",
+    "date": "2024-01-22",
+    "author": "Neeraj Kumar",
+    "excerpt": "A navigation bar that collapses into a hamburger menu on small screens is a must-have for any modern website. Let's build one."
+  },
+  {
+    "id": 7,
+    "title": "Props vs State in React",
+    "category": "React",
+    "date": "2024-01-25",
+    "author": "Neeraj Kumar",
+    "excerpt": "Props are passed into a component from outside. State is managed inside the component. Knowing when to use which is key to React."
+  },
+  {
+    "id": 8,
+    "title": "Writing Clean HTML",
+    "category": "HTML",
+    "date": "2024-01-28",
+    "author": "Neeraj Kumar",
+    "excerpt": "Semantic HTML improves accessibility and SEO. Using the right tags for the right content makes your code easier to read and maintain."
+  }
+]
